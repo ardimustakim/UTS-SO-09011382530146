@@ -88,14 +88,11 @@ kill %1
 jobs -l
 -->
 
-```
    ![Hasil menjalankan jobs](images/images1.png)
-```
 
 ## Kendala
 
-<!-- Tuliskan error yang pernah muncul selama mengerjakan dan bagaimana
-cara kamu mengatasinya, misalnya masalah izin eksekusi, perbedaan akhir
-baris (CRLF), jam VM yang tidak sinkron, dsb. -->
-
+1. Kesulitan dalam menulis script karna baru pertama kali mengerjakan script bash
+2. Belum terlalu mengusai linux command karna hanya terbiasa mengikuti alur praktikum
+3. Tidak terbiasa menggunakan Text Editor nano yang membuat saya menggunakan VSCode
 -
