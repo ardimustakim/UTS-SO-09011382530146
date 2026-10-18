@@ -3,7 +3,7 @@
 ## Identitas
 - **Nama** : Ardi Mustakim
 - **NIM**  : 09011382530146
-- **Kelas**: [ISI KELAS ANDA]
+- **Kelas**: [SKU3B]
 
 ## Deskripsi
 Repositori ini berisi kumpulan *shell script* yang secara otomatis mencari
@@ -89,7 +89,7 @@ jobs -l
 -->
 
 ```
-(tempel keluaran terminal asli di sini)
+   ![Hasil menjalankan jobs](images/images1.png)
 ```
 
 ## Kendala

@@ -1,7 +1,7 @@
 #!/bin/bash
 # Nama   : Ardi Mustakim
 # NIM    : 09011382530146
-# Kelas  : [ISI KELAS ANDA]
+# Kelas  : [SKU3B]
 #
 # alias.sh - Berisi alias sesuai ketentuan NIM (bk + 3 digit terakhir NIM).
 # Salin baris alias di bawah ini ke ~/.bashrc agar alias tetap aktif setiap

@@ -1,7 +1,7 @@
 #!/bin/bash
 # Nama   : Ardi Mustakim
 # NIM    : 09011382530146
-# Kelas  : [ISI KELAS ANDA]
+# Kelas  : [SKU3B]
 #
 # backup.sh - Mencari file catatan praktikum di direktori sumber (termasuk
 # di dalam subdirektori), mengarsipkan dan mengompresinya menjadi satu file

@@ -1,7 +1,7 @@
 #!/bin/bash
 # Nama   : Ardi Mustakim
 # NIM    : 09011382530146
-# Kelas  : [ISI KELAS ANDA]
+# Kelas  : [SKU3B]
 #
 # backup_loop.sh - Menjalankan backup.sh secara berulang setiap INTERVAL
 # detik, sehingga backup berjalan terus-menerus di latar belakang.
